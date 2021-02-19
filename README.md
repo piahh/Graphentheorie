@@ -1,7 +1,9 @@
 # Graphentheorie
 Universitätskurs: Graphentheorie. WS 2019/2020
 
-Erstellen dynamischer Graphen und Berechnung des Freeman-Index
+Erstellen dynamischer Graphen und Berechnung des Freeman-Index, sowie ein Floyd-Warshall-Algorithmus.
+
+Als Datenlage wurde ein Korpus aus deutschen Dramen zur Verfügung gestellt. 
 
 ![aggregate-network.png](https://github.com/piahh/Graphentheorie/blob/main/examples/aggregate-network.png)
 Beispiel eines Aggregatsgraphen am Beispiel eines Theaterstücks.
