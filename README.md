@@ -1,0 +1,2 @@
+# Graphentheorie
+Universitätskurs: Graphentheorie. 
